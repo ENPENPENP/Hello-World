@@ -1,2 +1,3 @@
 # Hello-World
-hello github
+hello github!
+hello world!
